@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/bookmark-landing-page-react/static/css/main.174df121.css",
+    "main.js": "/bookmark-landing-page-react/static/js/main.83879c88.js",
+    "static/js/787.1863e5a2.chunk.js": "/bookmark-landing-page-react/static/js/787.1863e5a2.chunk.js",
+    "static/media/New-Project.png": "/bookmark-landing-page-react/static/media/New-Project.7b4055757089a73e6517.png",
+    "static/media/illustration-features-tab-3.png": "/bookmark-landing-page-react/static/media/illustration-features-tab-3.282c587b84fc1898252a.png",
+    "static/media/illustration-features-tab-2.png": "/bookmark-landing-page-react/static/media/illustration-features-tab-2.1ae03094fc4cd6f43d0a.png",
+    "index.html": "/bookmark-landing-page-react/index.html",
+    "main.174df121.css.map": "/bookmark-landing-page-react/static/css/main.174df121.css.map",
+    "main.83879c88.js.map": "/bookmark-landing-page-react/static/js/main.83879c88.js.map",
+    "787.1863e5a2.chunk.js.map": "/bookmark-landing-page-react/static/js/787.1863e5a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.174df121.css",
+    "static/js/main.83879c88.js"
+  ]
+}
