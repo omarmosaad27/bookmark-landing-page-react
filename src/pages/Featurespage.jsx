@@ -6,4 +6,4 @@ const Featurespage = () => {
   )
 }
 
-export default Features
+export default Featurespage

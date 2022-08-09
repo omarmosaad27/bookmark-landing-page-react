@@ -5,7 +5,7 @@ import Pricing from '../components/Pricing'
 import FAQ from '../components/FAQ'
 import Contact from '../components/Contact'
 import Footer from '../components/Footer'
-const Home = () => {
+const Homepage = () => {
   return (
     <>
       <Hero />
@@ -18,4 +18,4 @@ const Home = () => {
   )
 }
 
-export default Home
+export default Homepage

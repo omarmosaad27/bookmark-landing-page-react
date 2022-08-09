@@ -1,5 +1,5 @@
 import React from 'react'
-import { BrowserRouter as Router , Route, Routes } from 'react-router-dom'
+import { BrowserRouter  , Route, Routes } from 'react-router-dom'
 import Navbar from './components/Navbar.jsx'
 import Homepage from './pages/Homepage'
 import Featurespage from './pages/Featurespage'
@@ -9,7 +9,7 @@ import Contactpage from './pages/Contactpage'
 function App() {
   
   return (
-    <Router>
+    <BrowserRouter>
       <Navbar/>
       <Routes>
         <Route exact path='/' element={ <Homepage/>}/>
@@ -17,7 +17,7 @@ function App() {
         <Route path='pricing' element={ <Pricingpage/>}/>
         <Route path='contact' element={ <Contactpage/>}/>
       </Routes>
-    </Router>
+    </BrowserRouter>
   );
 }
 
